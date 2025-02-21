@@ -23,3 +23,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+
+##### Amplify for S3 bucket
+https://github.com/tinytechnicaltutorials/ttt-s3-storage-browser-notes
+https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/
+https://github.com/jameslingithub/goext_s3_browser
+
+https://www.youtube.com/watch?v=UwnuPgNnmUg
